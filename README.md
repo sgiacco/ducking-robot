@@ -1,2 +1,2 @@
 # ducking-robot
-Ducking robot
+Ducking robot rulez!
